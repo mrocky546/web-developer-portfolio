@@ -2,6 +2,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0px 200px;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -26,7 +27,19 @@ color:beige;
 font-size: 20px;
 font-weight: 700;
 padding: 15px 30px;
+}
 
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+30px 30px 30px 150px;
+
+}
+.banner{
+    display: flex;
+    align-items: center;
+    
 }
 
     
